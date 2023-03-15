@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://vixcon.tristangoetz.me"
-title = "Vixcon"
+title = "Quant Science"
 theme = "vixcon-hugo"
 # post pagination
 paginate = "4"
@@ -9,7 +9,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "vixcon" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["fr"] # desable language from here
 
 # output
 [outputs]
@@ -108,7 +108,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Get Ticket"
+label = "Start Now 👉"
 link = "pricing"
 
 
@@ -160,7 +160,7 @@ home = "Home"
 # footer content
 footer_content = "We are a creative-led experiential Event Production Agency that helps brands connect, engage and evolve."
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2023 Quant Science"
 
 
 ################################### French language #####################################
