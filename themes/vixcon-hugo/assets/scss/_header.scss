@@ -5,6 +5,21 @@
   color: $secondary-color;
 }
 
+.logo-b {
+  max-width: 50px;
+  -webkit-filter: drop-shadow(0px 2px 2px #222);
+}
+
+.nav-spacer {
+  margin-bottom: 93px;
+}
+
+@media(max-width:991px){
+  .nav-spacer{
+    margin-bottom: 76px;;
+  }
+}
+
 .main-nav {
   transition: all .7s linear;
 

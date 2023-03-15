@@ -5,6 +5,7 @@
 <body>
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
+	{{ partial "spacer.html" . }}
 	{{ if not .IsHome }}
 	{{ partial "page-title.html" . }}
 	{{ end }}
