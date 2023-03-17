@@ -90,7 +90,17 @@
   }
 }
 
+.btn-hero-secondary {
+  background: $secondary-color;
+  border-color: $secondary-color;
+  color: $white;
 
+  &:hover {
+    background: transparent;
+    color: $white;
+    border-color: $secondary-color;
+  }
+}
 
 .btn-secondary {
   background: $secondary-color;

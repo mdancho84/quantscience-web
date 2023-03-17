@@ -1,23 +1,27 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "The future <br> & Tech Expo"
-  bg_image: "images/banner/banner-2.jpg"
-  date_time : "November 12, at 10.00am"
+  title : "Quant Meets Data Science"
+  bg_image: "images/banner/openbb_efficient_frontier.png"
+  subtitle: "**Welcome to the future of quantitative finance and algorithmic trading**. Increase your financial success with portfolio management, python, and data science."
   button:
-    enable : "Discover more"
-    label : "Discover more"
-    link : "service"
+    enable : true
+    label : "Start Now 👉"
+    link : "blog"
 
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Count the day** <br> until conference start"
+  title : "**Count the day** until our first course launches 🚀"
   # set timer
-  year: "2020"
-  month: "09"
+  year: "2023"
+  month: "04"
   day: "01"
   hour: "01"
+  button:
+    enable : true
+    label : "Join 1200+ on the waitlist 👉"
+    link : "blog"
 
 ############################## Event ##############################
 event:
