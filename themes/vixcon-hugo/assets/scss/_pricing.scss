@@ -38,6 +38,10 @@
 	background: $orange;
 }
 
+.bg-red{
+	background: $red;
+}
+
 .style-1{
 	.pname{
 		border-color:$primary-color;
@@ -46,12 +50,12 @@
 
 .style-2{
 	.pname{
-		border-color:$orange;
+		border-color:$red;
 	}
 
 	.btn{
-		border-color:$orange;
-		background: $orange;
+		border-color:$red;
+		background: $red;
 		color: $white;
 	}
 }

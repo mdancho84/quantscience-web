@@ -24,6 +24,11 @@ unsafe= true
 link = "plugins/bootstrap/css/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themefisher-font/themefisher-font.min.css"
+# [[params.plugins.css]]
+# link = "plugins/prism/prism.css"
+# [[params.plugins.css]]
+# link = "plugins/highlight/styles/xcode.min.css"
+
 
 # JS Plugins
 [[params.plugins.js]]
@@ -40,6 +45,12 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
+# [[params.plugins.js]]
+# link = "plugins/prism/prism.js"
+# [[params.plugins.js]]
+# link = "plugins/highlight/highlight.min.css"
+
+
 
 ############################## navigation ###############################
 [menu]

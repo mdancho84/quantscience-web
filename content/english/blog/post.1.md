@@ -20,6 +20,28 @@ At first glance, the 31-year-old, with her Instagram following of 300 000, may g
 impression of being just another modest influencer, posing in brands like Dulce by Safiya, Culture
 Hijab, and Hayah Collection.
 
+<h1 class="text-center">And she said, <em>"I love you."</em></h1>
+
+> "But seriously. How could she? She was married."
+>
+
+
+`code`
+
+``` r
+# R
+library(tidyverse)
+
+data_tbl  <- read_csv("path/to/csv")
+```
+
+``` python
+# Python 
+import pandas as pd
+
+pd.read_csv("path/to/csv")
+```
+
 “I converted to Islam in 2007, but I never felt like I was fully ready to commit to hijab – my hair
 was a crutch for me,” says burgeoning rap artist Neelam Hakeem. “From a fashion perspective, I didn’t
 realize that you could be modest and fierce at the same time; that you could walk into a room and
